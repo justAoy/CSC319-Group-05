@@ -1,2 +1,2 @@
-# CSC319-Group-05
+# CSC319/CSC105-Group-05
 Mountain Paths
